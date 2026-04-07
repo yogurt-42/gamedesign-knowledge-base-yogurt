@@ -5,7 +5,6 @@ type: mechanism
 domain: [abiotic-factors, resource-system, environmental-narrative]
 tags: [拆解系统, 办公空间, 场景考古学, 90年代科幻]
 source-concept: [Abiotic Factor, 非生物因素]
-projects-applied: [9th-containment]
 status: draft
 needs-validation: true
 last-reviewed: 2026-04-07
@@ -225,19 +224,7 @@ last-reviewed: 2026-04-07
 
 ## 实践验证记录
 
-### 待验证假设
-
-- [ ] 玩家是否能直觉地理解"万物皆可拆"？
-- [ ] 拆解动画是否令人满足？
-- [ ] 叙事线索的发现是否有成就感？
-- [ ] 90年代美学是否能唤起 nostalgia？
-
-### 9th-containment 项目适配
-
-**设施设定**：
-- 1990年代末的SCP中国分部设施
-- 结合中式办公环境（搪瓷杯、热水瓶、算盘）
-- 文化符号：搪瓷杯上的"先进工作者"、墙上的标语
+> 待自有项目应用后记录验证结果。
 
 ---
 
@@ -246,7 +233,6 @@ last-reviewed: 2026-04-07
 - 理论：[[TH-2024-003]] 环境叙事理论（空间叙事）
 - 机制：[[MECH-2024-001]] 非生物威胁系统（基础设施利用）
 - 案例：[[CS-2024-002]] Abiotic Factor深度分析（拆解系统）
-- 项目：[[PRJ-2024-001]] 第9号收容所（中式办公空间适配）
 
 ---
 **创建时间**: 2026-04-07  

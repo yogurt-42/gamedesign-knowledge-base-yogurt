@@ -78,7 +78,7 @@ last-reviewed: YYYY-MM-DD
 
 **正确引用**：
 ```markdown
-本项目的温度系统基于 [[MECH-2024-001]] 非生物威胁系统，
+本项目的温度系统基于 [MECH-2024-001](../30_Mechanics/abiotic-hazards.md) 非生物威胁系统，
 但做以下调整：
 - 极寒范围：设施冷库区（而非地下复合体）
 ```
@@ -134,8 +134,8 @@ mv 50_Projects/my-project/* 90_Archive/my-project-2026/
 - 收容物AI行为树过于简单
 
 ## 反馈到机制库
-- 更新 [[MECH-2024-001]] 的"实践验证记录"
-- 创建新的 [[MECH-2024-006]] 改进版收容AI
+- 更新 [MECH-2024-001](../30_Mechanics/abiotic-hazards.md) 的"实践验证记录"
+- 创建新的 MECH-2024-006 改进版收容AI
 ```
 
 ### 步骤3：更新相关机制文档

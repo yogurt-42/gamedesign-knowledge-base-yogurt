@@ -5,7 +5,6 @@ type: mechanism
 domain: [abiotic-factors, survival, environmental-hazards]
 tags: [非生物因素, 环境危害, 温度, 辐射, 重力, 供电]
 source-concept: [Abiotic Factor, 生态学非生物因素]
-projects-applied: [9th-containment]
 status: draft
 needs-validation: true
 last-reviewed: 2026-04-07
@@ -169,16 +168,7 @@ last-reviewed: 2026-04-07
 
 ## 实践验证记录
 
-### 9th-containment 项目 (2026-04)
-
-**温度系统2D化调整**：
-- ✅ 体温UI：角色边缘颜色变化（蓝→红）
-- ⚠️ 寒潮视觉效果：需要更强的屏幕空间效果
-- ✅ 设备效率：简化为"影响半径"而非复杂热传导
-
-**待解决问题**：
-- [ ] 多区域温度差异的显示方式
-- [ ] 温度对收容物行为的影响反馈
+> 待自有项目应用后记录验证结果。
 
 ---
 
@@ -186,7 +176,6 @@ last-reviewed: 2026-04-07
 
 - 理论：[[TH-2024-002]] 系统式设计原则
 - 案例：[[CS-2024-002]] Abiotic Factor 深度分析
-- 项目：[[PRJ-2024-001]] 第9号收容所（温度系统应用）
 
 ---
 **创建时间**: 2026-04-07  

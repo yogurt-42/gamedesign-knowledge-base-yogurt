@@ -5,7 +5,6 @@ type: mechanism
 domain: [containment, scp, anomaly-management]
 tags: [收容系统, Safe/Euclid/Keter, 收容失效, 动态事件]
 source-concept: [SCP基金会, 脑叶公司, Abiotic Factor]
-projects-applied: [9th-containment]
 status: draft
 needs-validation: true
 last-reviewed: 2026-04-07
@@ -275,17 +274,7 @@ K-002 "雷云" 与 K-003 "金属构造体"
 
 ## 实践验证记录
 
-### 9th-containment 项目设计
-
-**收容单元设计**：
-- 2D俯视角下的可视化解状态
-- 拖拽式员工分配
-- 实时状态条显示
-
-**待解决问题**：
-- [ ] 如何在2D视角下表现"隔离层"的物理存在？
-- [ ] 收容失效时的AI行为路径寻找
-- [ ] 多个收容单元的UI不混乱
+> 待自有项目应用后记录验证结果。
 
 ---
 

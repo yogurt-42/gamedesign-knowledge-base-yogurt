@@ -85,7 +85,7 @@ status: active
 - 空间叙事
 
 **相关资源**：
-- **专题入口**: [[topic-abiotic-factors.md]]
+- **专题入口**: [topic-abiotic-factors.md](topic-abiotic-factors.md)
 - 理论：[系统式设计](10_Theory/systemic-design.md)
 - 机制：[非生物威胁系统](30_Mechanics/abiotic-hazards.md)
 - 案例：[非生物因素深度分析](40_CaseStudies/abiotic-factor/deep-dive.md)

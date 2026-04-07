@@ -5,7 +5,6 @@ type: mechanism
 domain: [character-design, survival, identity]
 tags: [科学家身份, 非暴力, 智力属性, 能力模型]
 source-concept: [Abiotic Factor, 非生物因素]
-projects-applied: [9th-containment]
 status: draft
 needs-validation: true
 last-reviewed: 2026-04-07
@@ -295,17 +294,7 @@ WIS 直觉 → 假设形成、模式识别
 
 ## 实践验证记录
 
-### 9th-containment 项目适配
-
-**2D俯视角实现**：
-- 鼠标悬停显示物体"科学属性"
-- 右键菜单提供"科学选项"
-- 技能树可视化
-
-**待解决问题**：
-- [ ] 如何表现"知识增长"的成就感？
-- [ ] 非暴力解决是否会导致挫败感？
-- [ ] 智力属性如何平衡（避免太简单或太难）？
+> 待自有项目应用后记录验证结果。
 
 ---
 

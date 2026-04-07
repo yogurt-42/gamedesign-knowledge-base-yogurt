@@ -5,7 +5,6 @@ type: mechanism
 domain: [crafting, knowledge-unlock, progression]
 tags: [制作系统, 知识解锁, 实验室, 科学设备]
 source-concept: [Abiotic Factor, 研究型制作]
-projects-applied: [9th-containment]
 status: draft
 needs-validation: true
 last-reviewed: 2026-04-07

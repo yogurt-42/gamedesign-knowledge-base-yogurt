@@ -101,18 +101,18 @@ status: active
 ## 快速链接
 
 ### 理论层
-- [[TH-2024-002]] 系统式设计原则（涌现性）
-- [[TH-2024-003]] 环境叙事理论（空间叙事）
+- [TH-2024-002](../10_Theory/systemic-design.md) 系统式设计原则（涌现性）
+- [TH-2024-003](../10_Theory/environmental-storytelling.md) 环境叙事理论（空间叙事）
 
 ### 框架层
-- [[FR-2024-004]] SCP文档框架（异常描述格式）
-- [[FR-2024-003]] SCP设计框架（收容物游戏化）
+- [FR-2024-004](../20_Frameworks/scp-official-standards.md) SCP文档框架（异常描述格式）
+- [FR-2024-003](../20_Frameworks/scp-framework.md) SCP设计框架（收容物游戏化）
 
 ### 技术层
-- [[TECH-2024-001]] 2D俯视角实现指南（技术基础）
+- [TECH-2024-001](../90_TechRefs/2d-topdown-guide.md) 2D俯视角实现指南（技术基础）
 
 ### 使用指南
-- [[WORKFLOW-001]] 知识库使用指南（如何维护）
+- [WORKFLOW-001](workflow-guide.md) 知识库使用指南（如何维护）
 
 ---
 **最后更新**: 2026-04-07  

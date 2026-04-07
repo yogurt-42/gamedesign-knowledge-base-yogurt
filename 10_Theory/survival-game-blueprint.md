@@ -5,7 +5,6 @@ type: theory
 domain: [survival-game, game-economy, flow-theory]
 tags: [心流理论, 经济系统, 风险回报, 动态难度]
 sources: [Theseus芬兰应用科学大学]
-projects: [9th-containment]
 related:
   - uid: FR-2024-002
     title: "GDD模板与设计模式"

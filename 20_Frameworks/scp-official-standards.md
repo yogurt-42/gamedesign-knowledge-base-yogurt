@@ -5,7 +5,6 @@ type: framework
 domain: [scp, anomaly-design, writing]
 tags: [临床语调, 对象等级, 官方标准, 文档格式]
 sources: [SCP Wikidot官方, DeviantArt]
-projects: [9th-containment]
 related:
   - uid: FR-2024-003
     title: "SCP设计框架"

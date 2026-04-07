@@ -4,10 +4,11 @@
 
 ## 🗂️ 新目录结构 (双轨制)
 
-```
 game-design/
 ├── 00_Index/                    # 导航入口
-│   └── knowledge-map.md         # 完整知识地图
+│   ├── knowledge-map.md         # 完整知识地图
+│   ├── topic-abiotic-factors.md # 非生物因素专题
+│   └── workflow-guide.md        # 使用指南
 │
 ├── 10_Theory/                   # 学术理论层
 │   ├── survival-game-blueprint.md    (TH-2024-001)
@@ -19,21 +20,26 @@ game-design/
 │   ├── scp-framework.md              (FR-2024-003)
 │   └── gdd-template.md               (FR-2024-002)
 │
-├── 30_Mechanics/                # 机制组件层 (待填充)
-│   └── [从案例中提取的通用机制]
+├── 30_Mechanics/                # 机制组件层
+│   ├── abiotic-hazards.md            (MECH-2024-001)
+│   ├── scientific-crafting.md        (MECH-2024-002)
+│   ├── office-to-survival.md         (MECH-2024-003)
+│   ├── containment-procedures.md     (MECH-2024-004)
+│   └── identity-inversion.md         (MECH-2024-005)
 │
 ├── 40_CaseStudies/              # 案例分析层
 │   └── abiotic-factor/
 │       ├── overview.md               (CS-2024-001)
 │       └── deep-dive.md              (CS-2024-002)
 │
-├── 50_Projects/                 # 当前项目层
-│   └── 9th-containment/
-│       └── gdd.md                    (PRJ-2024-001)
+├── 50_Projects/                 # 当前项目层 (当前为空)
+│   └── (预留)
+│
+├── 90_Archive/                  # 归档层
+│   └── external-reference-9th-containment/  (外部参考项目)
 │
 └── 90_TechRefs/                 # 技术实现层
     └── 2d-topdown-guide.md           (TECH-2024-001)
-```
 
 ## 🚀 快速导航
 
@@ -66,10 +72,12 @@ status: mature
 
 - **理论文档**: 3
 - **框架文档**: 3
+- **机制组件**: 5
 - **案例分析**: 2 (Abiotic Factor)
-- **项目文档**: 1 (第9号收容所)
+- **项目文档**: 0 (50_Projects/ 当前为空)
 - **技术参考**: 1
-- **总计**: 10个知识节点
+- **归档**: 1 (外部参考)
+- **总计**: 14+ 知识节点
 
 ---
 **重构时间**: 2026-04-07  

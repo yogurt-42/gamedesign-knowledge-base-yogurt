@@ -1,58 +1,76 @@
 # 游戏设计知识库 | Game Design Knowledge Base
 
-> 从零开始设计游戏的系统性资料整理，聚焦生存、收容、涌现性玩法
+> 双轨制知识架构：理论 → 框架 → 机制 → 案例
 
-Systematic knowledge base for game design, focusing on survival, containment, and emergent gameplay.
-
-## 📦 内容概览
-
-- **生存游戏设计** - 核心循环、经济系统、心流理论
-- **收容物/异常设计** - SCP风格框架、临床语调、分级系统
-- **涌现性玩法** - 系统式设计、元素交互、非预期解法
-- **环境叙事** - 指示符叙事、场景设计、碎片化故事
-
-## 🗂️ 目录结构
+## 🗂️ 新目录结构 (双轨制)
 
 ```
 game-design/
-├── core-mechanics/          # 核心机制设计
-│   ├── abiotic-factor-analysis.md
-│   ├── abiotic-factor-deep-dive.md
-│   └── scp-framework.md
-├── narrative/               # 叙事设计
-│   └── environmental-storytelling.md
-├── systems/                 # 系统设计
-│   └── systemic-design.md
-├── theory/                  # 学术理论
-│   ├── survival-game-blueprint.md
-│   └── scp-official-standards.md
-├── references/              # 参考工具
-│   ├── 2d-topdown-guide.md
-│   └── gdd-template.md
-└── projects/                # 项目文档
-    └── 9th-containment-gdd.md
+├── 00_Index/                    # 导航入口
+│   └── knowledge-map.md         # 完整知识地图
+│
+├── 10_Theory/                   # 学术理论层
+│   ├── survival-game-blueprint.md    (TH-2024-001)
+│   ├── systemic-design.md            (TH-2024-002)
+│   └── environmental-storytelling.md (TH-2024-003)
+│
+├── 20_Frameworks/               # 设计框架层
+│   ├── scp-official-standards.md     (FR-2024-004)
+│   ├── scp-framework.md              (FR-2024-003)
+│   └── gdd-template.md               (FR-2024-002)
+│
+├── 30_Mechanics/                # 机制组件层 (待填充)
+│   └── [从案例中提取的通用机制]
+│
+├── 40_CaseStudies/              # 案例分析层
+│   └── abiotic-factor/
+│       ├── overview.md               (CS-2024-001)
+│       └── deep-dive.md              (CS-2024-002)
+│
+├── 50_Projects/                 # 当前项目层
+│   └── 9th-containment/
+│       └── gdd.md                    (PRJ-2024-001)
+│
+└── 90_TechRefs/                 # 技术实现层
+    └── 2d-topdown-guide.md           (TECH-2024-001)
 ```
 
-## 🚀 快速开始
+## 🚀 快速导航
 
-**策划**：`theory/` → `core-mechanics/` → `references/gdd-template.md`
+**入口**: [00_Index/knowledge-map.md](00_Index/knowledge-map.md) - 完整知识地图
 
-**开发**：`references/2d-topdown-guide.md` → `systems/systemic-design.md`
+**按角色查找**:
+- **系统策划** → 10_Theory/ + 30_Mechanics/
+- **文案策划** → 20_Frameworks/SCP + 10_Theory/环境叙事
+- **数值策划** → 10_Theory/生存游戏学术理论
+- **技术策划** → 90_TechRefs/
 
-**叙事**：`narrative/environmental-storytelling.md` → `theory/scp-official-standards.md`
+## 📝 使用规范
 
-## 📚 主要来源
+每个文档包含 YAML frontmatter:
+```yaml
+---
+uid: TH-2024-001          # 唯一标识符
+type: theory              # 类型: theory/framework/mechanic/case/project
+domain: [survival-game]   # 领域
+tags: [心流理论]          # 标签
+related:                  # 关联文档
+  - uid: FR-2024-002
+    title: "GDD模板"
+created: 2026-04-07
+status: mature
+---
+```
 
-- Theseus《生存游戏设计蓝图》(芬兰应用科学大学)
-- SCP Wikidot 官方写作指南
-- David Mullich GDD模板
-- 《非生物因素》游戏分析
-- GDC 2010 环境叙事讲座
+## 📊 统计
 
-## 📝 详细说明
-
-查看 `GITHUB_DESCRIPTION.md` 获取完整双语介绍。
+- **理论文档**: 3
+- **框架文档**: 3
+- **案例分析**: 2 (Abiotic Factor)
+- **项目文档**: 1 (第9号收容所)
+- **技术参考**: 1
+- **总计**: 10个知识节点
 
 ---
-**最后更新**: 2026-04-07  
-**维护者**: Opus
+**重构时间**: 2026-04-07  
+**架构版本**: v2.0 (双轨制)

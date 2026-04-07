@@ -112,18 +112,18 @@ grep -r "MECH-2024-001" ~/code/game-design/
 
 ## 🔄 项目复盘时的归档流程
 
-当项目完成时（如9th-containment）：
+当自有项目完成时：
 
 ### 步骤1：归档项目
 ```bash
 cd ~/code/game-design/
-mkdir -p 90_Archive/9th-containment-2026/
-mv 50_Projects/9th-containment/* 90_Archive/9th-containment-2026/
+mkdir -p 90_Archive/my-project-2026/
+mv 50_Projects/my-project/* 90_Archive/my-project-2026/
 ```
 
 ### 步骤2：添加复盘文档
 ```markdown
-# 9th-containment 项目复盘
+# my-project 项目复盘
 
 ## 哪些机制有效？
 - ✅ 温度系统：2D化表现良好
@@ -147,7 +147,7 @@ mv 50_Projects/9th-containment/* 90_Archive/9th-containment-2026/
 
 ### ❌ 错误1：在项目中重复机制细节
 ```markdown
-# bad: 9th-containment/gdd.md
+# bad: my-project/gdd.md
 
 ## 温度系统
 温度系统的工作原理是...[复制粘贴300字]
@@ -155,7 +155,7 @@ mv 50_Projects/9th-containment/* 90_Archive/9th-containment-2026/
 
 ### ✅ 正确：引用+差异说明
 ```markdown
-# good: 9th-containment/gdd.md
+# good: my-project/gdd.md
 
 ## 温度系统
 基于 [[MECH-2024-001]] 非生物威胁系统，

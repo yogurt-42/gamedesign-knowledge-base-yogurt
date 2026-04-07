@@ -55,7 +55,7 @@ status: active
 
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
-| PRJ-2024-001 | [第9号收容所GDD](50_Projects/9th-containment/gdd.md) | 项目概述、MVP规划 |
+| PRJ-2024-001 | [未命名项目1](50_Projects/9th-containment/gdd.md) | （外部参考项目，留空待补充） |
 
 ### 90_TechRefs/ 技术参考
 **实现指南**
@@ -97,7 +97,7 @@ status: active
 
 - 框架：[SCP官方标准](20_Frameworks/scp-official-standards.md)
 - 机制：[SCP设计框架](20_Frameworks/scp-framework.md)
-- 项目：[第9号收容所](50_Projects/9th-containment/gdd.md)
+- 项目：[未命名项目1](50_Projects/9th-containment/gdd.md)（外部参考）
 
 ---
 

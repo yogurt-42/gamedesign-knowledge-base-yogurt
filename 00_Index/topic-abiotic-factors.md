@@ -17,8 +17,6 @@ related:
     title: "身份反转设计"
   - uid: CS-2024-002
     title: "Abiotic Factor深度分析"
-  - uid: PRJ-2024-001
-    title: "未命名项目1（外部参考）"
 created: 2026-04-07
 status: active
 ---
@@ -79,7 +77,7 @@ status: active
 
 ## 当前项目应用
 
-> 暂无自有项目应用此专题。可参考外部项目 [[PRJ-2024-001]]（留空待补充）。
+> 暂无自有项目应用此专题。50_Projects/ 目录当前为空，待新项目创建后可在此记录应用方案。
 
 ---
 

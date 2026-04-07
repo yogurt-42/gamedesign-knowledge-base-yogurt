@@ -53,9 +53,7 @@ status: active
 ### 50_Projects/ 当前项目
 **正在进行的项目**
 
-| UID | 文档 | 核心内容 |
-|-----|------|---------|
-| PRJ-2024-001 | [未命名项目1](50_Projects/9th-containment/gdd.md) | （外部参考项目，留空待补充） |
+> 当前暂无自有项目。50_Projects/ 目录留空待新项目创建。
 
 ### 90_TechRefs/ 技术参考
 **实现指南**
@@ -97,7 +95,6 @@ status: active
 
 - 框架：[SCP官方标准](20_Frameworks/scp-official-standards.md)
 - 机制：[SCP设计框架](20_Frameworks/scp-framework.md)
-- 项目：[未命名项目1](50_Projects/9th-containment/gdd.md)（外部参考）
 
 ---
 

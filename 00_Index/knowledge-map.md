@@ -30,14 +30,17 @@ status: active
 
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
-| FR-2024-001 | [SCP文档框架](20_Frameworks/scp-official-standards.md) | 官方标准、临床语调、等级分类 |
-| FR-2024-002 | [GDD模板](20_Frameworks/gdd-template.md) | 机制九要素、资源八要素 |
+| FR-2024-004 | [SCP官方标准](20_Frameworks/scp-official-standards.md) | 官方写作指南、临床语调、等级分类 |
 | FR-2024-003 | [SCP设计框架](20_Frameworks/scp-framework.md) | 收容物设计、游戏化机制 |
+| FR-2024-002 | [GDD模板](20_Frameworks/gdd-template.md) | 机制九要素、资源八要素 |
 
 ### 30_Mechanics/ 机制组件
 **可复用零件，直接"拿来用"**
 
-> 待创建：从案例中提取通用机制
+| UID | 文档 | 核心内容 |
+|-----|------|---------|
+| MECH-2024-001 | [非生物威胁系统](30_Mechanics/abiotic-hazards.md) | 寒潮、断电、辐射、重力异常 |
+| MECH-2024-002 | [科研式制作系统](30_Mechanics/scientific-crafting.md) | 知识解锁、实验室层级、实验风险 |
 
 ### 40_CaseStudies/ 案例分析
 **具体游戏，看"别人怎么做"**
@@ -61,6 +64,15 @@ status: active
 |-----|------|---------|
 | TECH-2024-001 | [2D俯视角实现](90_TechRefs/2d-topdown-guide.md) | Godot架构、ECS、多人联机 |
 
+### 00_Index/ 索引导航
+**入口与指南**
+
+| 文档 | 用途 |
+|------|------|
+| [knowledge-map.md](knowledge-map.md) | 本页面：完整知识地图 |
+| [topic-abiotic-factors.md](topic-abiotic-factors.md) | ⭐ 非生物因素专题入口 |
+| [workflow-guide.md](workflow-guide.md) | 知识库使用指南 |
+
 ---
 
 ## 🎯 主题入口
@@ -75,14 +87,15 @@ status: active
 - 空间叙事
 
 **相关资源**：
+- **专题入口**: [[topic-abiotic-factors.md]]
 - 理论：[系统式设计](10_Theory/systemic-design.md)
+- 机制：[非生物威胁系统](30_Mechanics/abiotic-hazards.md)
 - 案例：[非生物因素深度分析](40_CaseStudies/abiotic-factor/deep-dive.md)
-- 技术：[2D实现指南](90_TechRefs/2d-topdown-guide.md)
 
 ### 收容物/异常设计
 **Anomaly/Containment Design**
 
-- 框架：[SCP文档框架](20_Frameworks/scp-official-standards.md)
+- 框架：[SCP官方标准](20_Frameworks/scp-official-standards.md)
 - 机制：[SCP设计框架](20_Frameworks/scp-framework.md)
 - 项目：[第9号收容所](50_Projects/9th-containment/gdd.md)
 
@@ -104,6 +117,11 @@ status: active
 - **文案策划** → 20_Frameworks/SCP + 10_Theory/环境叙事
 - **数值策划** → 10_Theory/生存游戏学术理论
 - **技术策划** → 90_TechRefs/
+
+### 新用户入口
+1. 先看 [workflow-guide.md](workflow-guide.md) 了解如何使用
+2. 再访问 [topic-abiotic-factors.md](topic-abiotic-factors.md) 了解核心主题
+3. 根据需求深入各层级
 
 ---
 

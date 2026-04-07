@@ -1,3 +1,20 @@
+---
+uid: TH-2024-001
+title: "生存游戏学术理论"
+type: theory
+domain: [survival-game, game-economy, flow-theory]
+tags: [心流理论, 经济系统, 风险回报, 动态难度]
+sources: [Theseus芬兰应用科学大学]
+projects: [9th-containment]
+related:
+  - uid: FR-2024-002
+    title: "GDD模板与设计模式"
+  - uid: MECH-2024-001
+    title: "生存压力系统"
+created: 2026-04-07
+status: mature
+---
+
 # 生存游戏学术理论
 
 ## 核心参考文献

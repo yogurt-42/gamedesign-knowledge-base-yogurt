@@ -2,8 +2,9 @@
 
 > 双轨制知识架构：理论 → 框架 → 机制 → 案例
 
-## 🗂️ 新目录结构 (双轨制)
+## 🗂️ 目录结构
 
+```
 game-design/
 ├── 00_Index/                    # 导航入口
 │   ├── knowledge-map.md         # 完整知识地图
@@ -33,13 +34,10 @@ game-design/
 │       └── deep-dive.md              (CS-2024-002)
 │
 ├── 50_Projects/                 # 当前项目层 (当前为空)
-│   └── (预留)
-│
-├── 90_Archive/                  # 归档层
-│   └── external-reference-9th-containment/  (外部参考项目)
 │
 └── 90_TechRefs/                 # 技术实现层
     └── 2d-topdown-guide.md           (TECH-2024-001)
+```
 
 ## 🚀 快速导航
 
@@ -76,8 +74,7 @@ status: mature
 - **案例分析**: 2 (Abiotic Factor)
 - **项目文档**: 0 (50_Projects/ 当前为空)
 - **技术参考**: 1
-- **归档**: 1 (外部参考)
-- **总计**: 14+ 知识节点
+- **总计**: 14 知识节点
 
 ---
 **重构时间**: 2026-04-07  

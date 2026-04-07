@@ -41,6 +41,9 @@ status: active
 |-----|------|---------|
 | MECH-2024-001 | [非生物威胁系统](30_Mechanics/abiotic-hazards.md) | 寒潮、断电、辐射、重力异常 |
 | MECH-2024-002 | [科研式制作系统](30_Mechanics/scientific-crafting.md) | 知识解锁、实验室层级、实验风险 |
+| MECH-2024-003 | [办公空间资源化](30_Mechanics/office-to-survival.md) | 拆解系统、场景考古、90年代美学 |
+| MECH-2024-004 | [收容机制游戏化](30_Mechanics/containment-procedures.md) | Safe/Euclid/Keter、收容失效、动态事件 |
+| MECH-2024-005 | [身份反转设计](30_Mechanics/identity-inversion.md) | 科学家能力模型、非暴力解决、技能成长 |
 
 ### 40_CaseStudies/ 案例分析
 **具体游戏，看"别人怎么做"**

@@ -1,5 +1,5 @@
 ---
-uid: MECH-2024-002
+uid: MECH-002
 title: "科研式制作系统"
 type: mechanism
 domain: [crafting, knowledge-unlock, progression]
@@ -199,9 +199,9 @@ Level 4: 结论 (Conclusion)
 
 ## 相关资源
 
-- 框架：[[FR-2024-002]] GDD模板（资源描述八要素）
-- 案例：[[CS-2024-002]] Abiotic Factor深度分析（科学制作）
-- 理论：[[TH-2024-001]] 生存游戏学术理论（经济系统）
+- 框架：[[FR-002]] GDD模板（资源描述八要素）
+- 案例：[[CS-002]] Abiotic Factor深度分析（科学制作）
+- 理论：[[TH-001]] 生存游戏学术理论（经济系统）
 
 ---
 **创建时间**: 2026-04-07  

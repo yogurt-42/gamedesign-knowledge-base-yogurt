@@ -5,17 +5,17 @@ type: topic-index
 domain: [abiotic-factors, environmental-design]
 tags: [非生物因素, abiotic-factors, 环境危害, 静态异常, 物理交互]
 related:
-  - uid: MECH-2024-001
+  - uid: MECH-001
     title: "非生物威胁系统"
-  - uid: MECH-2024-002
+  - uid: MECH-002
     title: "科研式制作系统"
-  - uid: MECH-2024-003
+  - uid: MECH-003
     title: "办公空间资源化"
-  - uid: MECH-2024-004
+  - uid: MECH-004
     title: "收容机制游戏化"
-  - uid: MECH-2024-005
+  - uid: MECH-005
     title: "身份反转设计"
-  - uid: CS-2024-002
+  - uid: CS-002
     title: "Abiotic Factor深度分析"
 created: 2026-04-07
 status: active
@@ -56,11 +56,11 @@ status: active
 
 | UID | 机制 | 核心内容 |
 |-----|------|---------|
-| MECH-2024-001 | [[非生物威胁系统]] | 寒潮、断电、辐射、重力异常 |
-| MECH-2024-002 | [[科研式制作系统]] | 知识解锁、实验室层级、实验风险 |
-| MECH-2024-003 | [[办公空间资源化]] | 拆解系统、场景考古、90年代美学 |
-| MECH-2024-004 | [[收容机制游戏化]] | Safe/Euclid/Keter、收容失效、动态事件 |
-| MECH-2024-005 | [[身份反转设计]] | 科学家能力模型、非暴力解决、技能成长 |
+| MECH-001 | [[非生物威胁系统]] | 寒潮、断电、辐射、重力异常 |
+| MECH-002 | [[科研式制作系统]] | 知识解锁、实验室层级、实验风险 |
+| MECH-003 | [[办公空间资源化]] | 拆解系统、场景考古、90年代美学 |
+| MECH-004 | [[收容机制游戏化]] | Safe/Euclid/Keter、收容失效、动态事件 |
+| MECH-005 | [[身份反转设计]] | 科学家能力模型、非暴力解决、技能成长 |
 
 ---
 
@@ -68,7 +68,7 @@ status: active
 
 ### 完整实现参考
 
-- [[CS-2024-002]] **Abiotic Factor深度分析**
+- [[CS-002]] **Abiotic Factor深度分析**
   - 科学家身份的生存重构
   - 非生物威胁的具体实现
   - 办公空间叙事设计
@@ -101,15 +101,15 @@ status: active
 ## 快速链接
 
 ### 理论层
-- [TH-2024-002](../10_Theory/systemic-design.md) 系统式设计原则（涌现性）
-- [TH-2024-003](../10_Theory/environmental-storytelling.md) 环境叙事理论（空间叙事）
+- [TH-002](../10_Theory/systemic-design.md) 系统式设计原则（涌现性）
+- [TH-003](../10_Theory/environmental-storytelling.md) 环境叙事理论（空间叙事）
 
 ### 框架层
-- [FR-2024-004](../20_Frameworks/scp-official-standards.md) SCP文档框架（异常描述格式）
-- [FR-2024-003](../20_Frameworks/scp-framework.md) SCP设计框架（收容物游戏化）
+- [FR-004](../20_Frameworks/scp-official-standards.md) SCP文档框架（异常描述格式）
+- [FR-003](../20_Frameworks/scp-framework.md) SCP设计框架（收容物游戏化）
 
 ### 技术层
-- [TECH-2024-001](../90_TechRefs/2d-topdown-guide.md) 2D俯视角实现指南（技术基础）
+- [TECH-001](../60_TechRefs/2d-topdown-guide.md) 2D俯视角实现指南（技术基础）
 
 ### 使用指南
 - [WORKFLOW-001](workflow-guide.md) 知识库使用指南（如何维护）

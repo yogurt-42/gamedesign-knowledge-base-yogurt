@@ -1,5 +1,5 @@
 ---
-uid: IDX-2024-001
+uid: IDX-001
 title: "知识库导航地图"
 type: index
 domain: [game-design, knowledge-management]
@@ -21,49 +21,49 @@ status: active
 
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
-| TH-2024-001 | [生存游戏学术理论](../10_Theory/survival-game-blueprint.md) | 心流理论、经济系统、风险回报 |
-| TH-2024-002 | [系统式设计原则](../10_Theory/systemic-design.md) | 涌现性、元素交互、刺激-反应 |
-| TH-2024-003 | [环境叙事理论](../10_Theory/environmental-storytelling.md) | 指数叙事、指示符、场景设计 |
+| TH-001 | [生存游戏学术理论](../10_Theory/survival-game-blueprint.md) | 心流理论、经济系统、风险回报 |
+| TH-002 | [系统式设计原则](../10_Theory/systemic-design.md) | 涌现性、元素交互、刺激-反应 |
+| TH-003 | [环境叙事理论](../10_Theory/environmental-storytelling.md) | 指数叙事、指示符、场景设计 |
 
 ### 20_Frameworks/ 设计框架
 **标准化方法，知道"怎么做"**
 
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
-| FR-2024-004 | [SCP官方标准](../20_Frameworks/scp-official-standards.md) | 官方写作指南、临床语调、等级分类 |
-| FR-2024-003 | [SCP设计框架](../20_Frameworks/scp-framework.md) | 收容物设计、游戏化机制 |
-| FR-2024-002 | [GDD模板](../20_Frameworks/gdd-template.md) | 机制九要素、资源八要素 |
+| FR-004 | [SCP官方标准](../20_Frameworks/scp-official-standards.md) | 官方写作指南、临床语调、等级分类 |
+| FR-003 | [SCP设计框架](../20_Frameworks/scp-framework.md) | 收容物设计、游戏化机制 |
+| FR-002 | [GDD模板](../20_Frameworks/gdd-template.md) | 机制九要素、资源八要素 |
 
 ### 30_Mechanics/ 机制组件
 **可复用零件，直接"拿来用"**
 
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
-| MECH-2024-001 | [非生物威胁系统](../30_Mechanics/abiotic-hazards.md) | 寒潮、断电、辐射、重力异常 |
-| MECH-2024-002 | [科研式制作系统](../30_Mechanics/scientific-crafting.md) | 知识解锁、实验室层级、实验风险 |
-| MECH-2024-003 | [办公空间资源化](../30_Mechanics/office-to-survival.md) | 拆解系统、场景考古、90年代美学 |
-| MECH-2024-004 | [收容机制游戏化](../30_Mechanics/containment-procedures.md) | Safe/Euclid/Keter、收容失效、动态事件 |
-| MECH-2024-005 | [身份反转设计](../30_Mechanics/identity-inversion.md) | 科学家能力模型、非暴力解决、技能成长 |
+| MECH-001 | [非生物威胁系统](../30_Mechanics/abiotic-hazards.md) | 寒潮、断电、辐射、重力异常 |
+| MECH-002 | [科研式制作系统](../30_Mechanics/scientific-crafting.md) | 知识解锁、实验室层级、实验风险 |
+| MECH-003 | [办公空间资源化](../30_Mechanics/office-to-survival.md) | 拆解系统、场景考古、90年代美学 |
+| MECH-004 | [收容机制游戏化](../30_Mechanics/containment-procedures.md) | Safe/Euclid/Keter、收容失效、动态事件 |
+| MECH-005 | [身份反转设计](../30_Mechanics/identity-inversion.md) | 科学家能力模型、非暴力解决、技能成长 |
 
 ### 40_CaseStudies/ 案例分析
 **具体游戏，看"别人怎么做"**
 
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
-| CS-2024-001 | [非生物因素概览](../40_CaseStudies/abiotic-factor/overview.md) | 基础分析、核心机制 |
-| CS-2024-002 | [非生物因素深度](../40_CaseStudies/abiotic-factor/deep-dive.md) | 拆解系统、非生物威胁、空间叙事 |
+| CS-001 | [非生物因素概览](../40_CaseStudies/abiotic-factor/overview.md) | 基础分析、核心机制 |
+| CS-002 | [非生物因素深度](../40_CaseStudies/abiotic-factor/deep-dive.md) | 拆解系统、非生物威胁、空间叙事 |
 
 ### 50_Projects/ 当前项目
 **正在进行的项目**
 
 > 当前暂无自有项目。50_Projects/ 目录留空待新项目创建。
 
-### 90_TechRefs/ 技术参考
+### 60_TechRefs/ 技术参考
 **实现指南**
 
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
-| TECH-2024-001 | [2D俯视角实现](../90_TechRefs/2d-topdown-guide.md) | Godot架构、ECS、多人联机 |
+| TECH-001 | [2D俯视角实现](../60_TechRefs/2d-topdown-guide.md) | Godot架构、ECS、多人联机 |
 
 ### 00_Index/ 索引导航
 **入口与指南**
@@ -137,7 +137,7 @@ status: active
 在 YAML 中使用 `related:` 字段：
 ```yaml
 related:
-  - uid: TH-2024-001
+  - uid: TH-001
     title: "相关文档标题"
 ```
 

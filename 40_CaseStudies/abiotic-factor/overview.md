@@ -1,3 +1,16 @@
+---
+uid: CS-001
+title: "非生物因素概览"
+type: case-study
+domain: [abiotic-factor, survival, case-study]
+tags: [非生物因素, Abiotic Factor, 概览, 核心机制, 身份反转]
+game: Abiotic Factor
+developer: Deep Field Games
+status: draft
+needs-validation: true
+last-reviewed: 2026-04-07
+---
+
 # 非生物因素 (Abiotic Factor) 深度分析
 
 ## 核心身份重构

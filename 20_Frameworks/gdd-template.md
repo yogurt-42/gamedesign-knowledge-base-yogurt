@@ -1,3 +1,15 @@
+---
+uid: FR-002
+title: "GDD模板与设计模式"
+type: framework
+domain: [documentation, gdd]
+tags: [GDD, 设计文档, 机制描述, 资源定义, 模板]
+sources: [David Mullich, Notion Template]
+status: draft
+needs-validation: true
+last-reviewed: 2026-04-07
+---
+
 # 游戏设计文档(GDD)模板
 
 ## 来源

@@ -1,3 +1,15 @@
+---
+uid: FR-003
+title: "SCP设计框架"
+type: framework
+domain: [scp, anomaly-design, containment]
+tags: [SCP, 收容物, Safe, Euclid, Keter, 异常设计]
+sources: [SCP Wikidot, 脑叶公司]
+status: draft
+needs-validation: true
+last-reviewed: 2026-04-07
+---
+
 # SCP 风格收容物设计框架
 
 ## 核心概念

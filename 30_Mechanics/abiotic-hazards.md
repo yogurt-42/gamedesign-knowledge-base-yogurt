@@ -1,5 +1,5 @@
 ---
-uid: MECH-2024-001
+uid: MECH-001
 title: "非生物威胁系统"
 type: mechanism
 domain: [abiotic-factors, survival, environmental-hazards]
@@ -174,8 +174,8 @@ last-reviewed: 2026-04-07
 
 ## 相关资源
 
-- 理论：[[TH-2024-002]] 系统式设计原则
-- 案例：[[CS-2024-002]] Abiotic Factor 深度分析
+- 理论：[[TH-002]] 系统式设计原则
+- 案例：[[CS-002]] Abiotic Factor 深度分析
 
 ---
 **创建时间**: 2026-04-07  

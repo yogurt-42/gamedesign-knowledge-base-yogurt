@@ -1,3 +1,15 @@
+---
+uid: TECH-001
+title: "2D俯视角实现指南"
+type: tech-reference
+domain: [tech-implementation, 2d, topdown, godot]
+tags: [Godot, 2D, 俯视角, ECS, 多人联机, 技术实现]
+engine: Godot 4
+status: draft
+needs-validation: true
+last-reviewed: 2026-04-07
+---
+
 # 2D俯视角技术实现指南
 
 ## 引擎选择

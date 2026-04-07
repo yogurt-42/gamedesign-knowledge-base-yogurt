@@ -78,7 +78,7 @@ last-reviewed: YYYY-MM-DD
 
 **正确引用**：
 ```markdown
-本项目的温度系统基于 [MECH-2024-001](../30_Mechanics/abiotic-hazards.md) 非生物威胁系统，
+本项目的温度系统基于 [MECH-001](../30_Mechanics/abiotic-hazards.md) 非生物威胁系统，
 但做以下调整：
 - 极寒范围：设施冷库区（而非地下复合体）
 ```
@@ -105,7 +105,7 @@ last-reviewed: YYYY-MM-DD
 
 ### 方式3：按UID搜索
 ```bash
-grep -r "MECH-2024-001" ~/code/game-design/
+grep -r "MECH-001" ~/code/game-design/
 ```
 
 ---
@@ -134,8 +134,8 @@ mv 50_Projects/my-project/* 90_Archive/my-project-2026/
 - 收容物AI行为树过于简单
 
 ## 反馈到机制库
-- 更新 [MECH-2024-001](../30_Mechanics/abiotic-hazards.md) 的"实践验证记录"
-- 创建新的 MECH-2024-006 改进版收容AI
+- 更新 [MECH-001](../30_Mechanics/abiotic-hazards.md) 的"实践验证记录"
+- 创建新的 MECH-006 改进版收容AI
 ```
 
 ### 步骤3：更新相关机制文档
@@ -158,7 +158,7 @@ mv 50_Projects/my-project/* 90_Archive/my-project-2026/
 # good: my-project/gdd.md
 
 ## 温度系统
-基于 [[MECH-2024-001]] 非生物威胁系统，
+基于 [[MECH-001]] 非生物威胁系统，
 调整参数：
 - 崩溃阈值：从-40°C调整为-30°C（2D游戏节奏更快）
 - 视觉反馈：增加屏幕结冰效果
@@ -191,7 +191,7 @@ cp 30_Mechanics/abiotic-hazards.md 30_Mechanics/your-mechanic.md
 ```
 
 2. 修改 YAML：
-- 更改 uid（如 MECH-2024-006）
+- 更改 uid（如 MECH-006）
 - 更新 title、tags、related
 
 3. 撰写内容：
@@ -206,7 +206,7 @@ cp 30_Mechanics/abiotic-hazards.md 30_Mechanics/your-mechanic.md
 
 5. 提交：
 ```bash
-git add . && git commit -m "Add MECH-2024-006: 机制名称"
+git add . && git commit -m "Add MECH-006: 机制名称"
 ```
 
 ---

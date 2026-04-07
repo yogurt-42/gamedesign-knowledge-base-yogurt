@@ -1,3 +1,15 @@
+---
+uid: TH-002
+title: "系统式设计原则"
+type: theory
+domain: [systemic-design, emergent-gameplay]
+tags: [系统式设计, 涌现性, 元素交互, 刺激-反应, 塞尔达]
+sources: [The Artifice, Zelda Breath of the Wild]
+status: draft
+needs-validation: true
+last-reviewed: 2026-04-07
+---
+
 # 系统式设计 (Systemic Design)
 
 ## 核心哲学

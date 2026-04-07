@@ -1,5 +1,5 @@
 ---
-uid: MECH-2024-003
+uid: MECH-003
 title: "办公空间资源化"
 type: mechanism
 domain: [abiotic-factors, resource-system, environmental-narrative]
@@ -230,9 +230,9 @@ last-reviewed: 2026-04-07
 
 ## 相关资源
 
-- 理论：[[TH-2024-003]] 环境叙事理论（空间叙事）
-- 机制：[[MECH-2024-001]] 非生物威胁系统（基础设施利用）
-- 案例：[[CS-2024-002]] Abiotic Factor深度分析（拆解系统）
+- 理论：[[TH-003]] 环境叙事理论（空间叙事）
+- 机制：[[MECH-001]] 非生物威胁系统（基础设施利用）
+- 案例：[[CS-002]] Abiotic Factor深度分析（拆解系统）
 
 ---
 **创建时间**: 2026-04-07  

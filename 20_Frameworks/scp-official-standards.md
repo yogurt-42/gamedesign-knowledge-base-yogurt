@@ -1,14 +1,14 @@
 ---
-uid: FR-2024-004
+uid: FR-004
 title: "SCP基金会官方设计标准"
 type: framework
 domain: [scp, anomaly-design, writing]
 tags: [临床语调, 对象等级, 官方标准, 文档格式]
 sources: [SCP Wikidot官方, DeviantArt]
 related:
-  - uid: FR-2024-003
+  - uid: FR-003
     title: "SCP设计框架"
-  - uid: TH-2024-003
+  - uid: TH-003
     title: "环境叙事理论"
 created: 2026-04-07
 status: mature

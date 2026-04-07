@@ -1,3 +1,16 @@
+---
+uid: CS-002
+title: "非生物因素深度分析"
+type: case-study
+domain: [abiotic-factor, survival, case-study]
+tags: [非生物因素, Abiotic Factor, 深度分析, 科学家身份, 系统拆解]
+game: Abiotic Factor
+developer: Deep Field Games
+status: draft
+needs-validation: true
+last-reviewed: 2026-04-07
+---
+
 # 非生物因素专项设计
 
 ## 核心设计理念

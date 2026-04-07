@@ -1,3 +1,15 @@
+---
+uid: TH-003
+title: "环境叙事理论"
+type: theory
+domain: [narrative, environmental-storytelling, level-design]
+tags: [环境叙事, 指数叙事, 指示符, 场景设计, GDC]
+sources: [GDC 2010, Indexical Storytelling]
+status: draft
+needs-validation: true
+last-reviewed: 2026-04-07
+---
+
 # 环境叙事 (Environmental Storytelling)
 
 ## 核心概念：指数叙事 (Indexical Storytelling)

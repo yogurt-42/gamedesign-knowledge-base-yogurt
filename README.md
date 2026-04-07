@@ -12,31 +12,31 @@ game-design/
 │   └── workflow-guide.md        # 使用指南
 │
 ├── 10_Theory/                   # 学术理论层
-│   ├── survival-game-blueprint.md    (TH-2024-001)
-│   ├── systemic-design.md            (TH-2024-002)
-│   └── environmental-storytelling.md (TH-2024-003)
+│   ├── survival-game-blueprint.md    (TH-001)
+│   ├── systemic-design.md            (TH-002)
+│   └── environmental-storytelling.md (TH-003)
 │
 ├── 20_Frameworks/               # 设计框架层
-│   ├── scp-official-standards.md     (FR-2024-004)
-│   ├── scp-framework.md              (FR-2024-003)
-│   └── gdd-template.md               (FR-2024-002)
+│   ├── scp-official-standards.md     (FR-004)
+│   ├── scp-framework.md              (FR-003)
+│   └── gdd-template.md               (FR-002)
 │
 ├── 30_Mechanics/                # 机制组件层
-│   ├── abiotic-hazards.md            (MECH-2024-001)
-│   ├── scientific-crafting.md        (MECH-2024-002)
-│   ├── office-to-survival.md         (MECH-2024-003)
-│   ├── containment-procedures.md     (MECH-2024-004)
-│   └── identity-inversion.md         (MECH-2024-005)
+│   ├── abiotic-hazards.md            (MECH-001)
+│   ├── scientific-crafting.md        (MECH-002)
+│   ├── office-to-survival.md         (MECH-003)
+│   ├── containment-procedures.md     (MECH-004)
+│   └── identity-inversion.md         (MECH-005)
 │
 ├── 40_CaseStudies/              # 案例分析层
 │   └── abiotic-factor/
-│       ├── overview.md               (CS-2024-001)
-│       └── deep-dive.md              (CS-2024-002)
+│       ├── overview.md               (CS-001)
+│       └── deep-dive.md              (CS-002)
 │
 ├── 50_Projects/                 # 当前项目层 (当前为空)
 │
-└── 90_TechRefs/                 # 技术实现层
-    └── 2d-topdown-guide.md           (TECH-2024-001)
+└── 60_TechRefs/                 # 技术实现层
+    └── 2d-topdown-guide.md           (TECH-001)
 ```
 
 ## 🚀 快速导航
@@ -54,12 +54,12 @@ game-design/
 每个文档包含 YAML frontmatter:
 ```yaml
 ---
-uid: TH-2024-001          # 唯一标识符
+uid: TH-001          # 唯一标识符
 type: theory              # 类型: theory/framework/mechanic/case/project
 domain: [survival-game]   # 领域
 tags: [心流理论]          # 标签
 related:                  # 关联文档
-  - uid: FR-2024-002
+  - uid: FR-002
     title: "GDD模板"
 created: 2026-04-07
 status: mature

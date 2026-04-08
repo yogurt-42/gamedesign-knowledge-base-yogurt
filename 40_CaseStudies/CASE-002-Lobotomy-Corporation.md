@@ -1,4 +1,33 @@
-# 脑叶公司：异想体收容系统分析
+---
+uid: CASE-002
+title: "脑叶公司：异想体收容系统分析"
+type: case-study
+domain: [containment, management-sim, horror, scp-like]
+tags: [脑叶公司, Lobotomy Corporation, 异想体, 知识锁, 风险收益, 元叙事, 玩家异化, 恐惧-知识循环]
+game: Lobotomy Corporation
+developer: Project Moon
+status: mature
+maturity: evergreen
+validation: production
+analysis-depth: [mechanic, narrative, comparative, philosophical]
+related:
+  - uid: MECH-004
+    title: "收容机制游戏化"
+    relation: "implements"
+  - uid: CASE-001
+    title: "Abiotic Factor 深度分析"
+    relation: "contrasts_with"
+  - uid: FR-003
+    title: "SCP设计框架"
+    relation: "deviates_from"
+  - uid: TH-001
+    title: "生存游戏学术理论"
+    relation: "applies"
+created: 2026-04-08
+last-reviewed: 2026-04-08
+---
+
+# CASE-002: 脑叶公司：异想体收容系统分析
 
 **案例编号**: CASE-002  
 **游戏**: Lobotomy Corporation (脑叶公司)  

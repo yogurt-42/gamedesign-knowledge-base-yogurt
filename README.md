@@ -29,14 +29,15 @@ game-design/
 │   └── identity-inversion.md         (MECH-005)
 │
 ├── 40_CaseStudies/              # 案例分析层
-│   └── abiotic-factor/
-│       ├── overview.md               (CS-001)
-│       └── deep-dive.md              (CS-002)
+│   ├── CASE-001-Abiotic-Factor.md    (Abiotic Factor)
+│   └── CASE-002-Lobotomy-Corporation.md (脑叶公司)
 │
 ├── 50_Projects/                 # 当前项目层 (当前为空)
 │
-└── 60_TechRefs/                 # 技术实现层
-    └── 2d-topdown-guide.md           (TECH-001)
+├── 60_TechRefs/                 # 技术实现层
+│   └── 2d-topdown-guide.md           (TECH-001)
+│
+└── WORKLOG.md                   # 工作日志
 ```
 
 ## 🚀 快速导航
@@ -71,11 +72,12 @@ status: mature
 - **理论文档**: 3
 - **框架文档**: 3
 - **机制组件**: 5
-- **案例分析**: 2 (Abiotic Factor)
+- **案例分析**: 2 (Abiotic Factor, 脑叶公司)
 - **项目文档**: 0 (50_Projects/ 当前为空)
 - **技术参考**: 1
-- **总计**: 14 知识节点
+- **工作日志**: 1
+- **总计**: 15 知识节点
 
 ---
-**重构时间**: 2026-04-07  
-**架构版本**: v2.0 (双轨制)
+**最后更新**: 2026-04-08  
+**架构版本**: v2.1 (双轨制 + 案例扩展)

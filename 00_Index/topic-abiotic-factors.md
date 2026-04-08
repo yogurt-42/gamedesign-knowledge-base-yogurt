@@ -115,5 +115,5 @@ status: active
 - [WORKFLOW-001](workflow-guide.md) 知识库使用指南（如何维护）
 
 ---
-**最后更新**: 2026-04-07  
-**维护者**: Opus
+**最后更新**: 2026-04-08  
+**维护者**: yogurt + Opus

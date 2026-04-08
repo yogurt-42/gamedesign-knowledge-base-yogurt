@@ -50,8 +50,8 @@ status: active
 
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
-| CS-001 | [非生物因素概览](../40_CaseStudies/abiotic-factor/overview.md) | 基础分析、核心机制 |
-| CS-002 | [非生物因素深度](../40_CaseStudies/abiotic-factor/deep-dive.md) | 拆解系统、非生物威胁、空间叙事 |
+| CASE-001 | [Abiotic Factor 深度分析](../40_CaseStudies/CASE-001-Abiotic-Factor.md) | 科学家身份、环境威胁、办公空间叙事 |
+| CASE-002 | [脑叶公司 异想体收容系统](../40_CaseStudies/CASE-002-Lobotomy-Corporation.md) | 知识锁、恐惧-知识循环、玩家异化 |
 
 ### 50_Projects/ 当前项目
 **正在进行的项目**
@@ -91,7 +91,7 @@ status: active
 - **专题入口**: [topic-abiotic-factors.md](topic-abiotic-factors.md)
 - 理论：[系统式设计](../10_Theory/systemic-design.md)
 - 机制：[非生物威胁系统](../30_Mechanics/abiotic-hazards.md)
-- 案例：[非生物因素深度分析](../40_CaseStudies/abiotic-factor/deep-dive.md)
+- 案例：[Abiotic Factor 深度分析](../40_CaseStudies/CASE-001-Abiotic-Factor.md)
 
 ### 收容物/异常设计
 **Anomaly/Containment Design**
@@ -146,5 +146,9 @@ related:
 ## 🔗 外部资源
 
 - GitHub: [game-design-knowledge](https://github.com/)
+- 维护者: Opus
+- 最后更新: 2026-04-07
+6-04-08
+
 - 维护者: Opus
 - 最后更新: 2026-04-07

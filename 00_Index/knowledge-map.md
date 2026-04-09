@@ -51,7 +51,8 @@ status: active
 | UID | 文档 | 核心内容 |
 |-----|------|---------|
 | CASE-001 | [Abiotic Factor 深度分析](../40_CaseStudies/CASE-001-Abiotic-Factor.md) | 科学家身份、环境威胁、办公空间叙事 |
-| CASE-002 | [脑叶公司 异想体收容系统](../40_CaseStudies/CASE-002-Lobotomy-Corporation.md) | 知识锁、恐惧-知识循环、玩家异化 |
+| CASE-002A | [脑叶公司 #1: 管理玩法](../40_CaseStudies/CASE-002A-lobotomy-management.md) | 熔毁机制、恐慌系统、核心抑制、创伤-机制映射 |
+| CASE-002B | [脑叶公司 #2: 收容系统](../40_CaseStudies/CASE-002B-Lobotomy-Corporation.md) | 风险等级、知识锁、异想体设计、Combo系统 |
 
 ### 50_Projects/ 当前项目
 **正在进行的项目**
@@ -98,6 +99,7 @@ status: active
 
 - 框架：[SCP官方标准](../20_Frameworks/scp-official-standards.md)
 - 机制：[SCP设计框架](../20_Frameworks/scp-framework.md)
+- 案例：[脑叶公司 #2: 收容系统](../40_CaseStudies/CASE-002B-Lobotomy-Corporation.md)
 
 ---
 
@@ -116,7 +118,7 @@ status: active
 - **系统策划** → 10_Theory/ + 30_Mechanics/
 - **文案策划** → 20_Frameworks/SCP + 10_Theory/环境叙事
 - **数值策划** → 10_Theory/生存游戏学术理论
-- **技术策划** → 90_TechRefs/
+- **技术策划** → 60_TechRefs/
 
 ### 新用户入口
 1. 先看 [workflow-guide.md](workflow-guide.md) 了解如何使用
@@ -147,8 +149,4 @@ related:
 
 - GitHub: [game-design-knowledge](https://github.com/)
 - 维护者: Opus
-- 最后更新: 2026-04-07
-6-04-08
-
-- 维护者: Opus
-- 最后更新: 2026-04-07
+- 最后更新: 2026-04-09

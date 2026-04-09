@@ -29,8 +29,9 @@ game-design/
 │   └── identity-inversion.md         (MECH-005)
 │
 ├── 40_CaseStudies/              # 案例分析层
-│   ├── CASE-001-Abiotic-Factor.md    (Abiotic Factor)
-│   └── CASE-002-Lobotomy-Corporation.md (脑叶公司)
+│   ├── CASE-001-Abiotic-Factor.md          (Abiotic Factor)
+│   ├── CASE-002A-lobotomy-management.md    (脑叶公司 #1: 管理玩法)
+│   └── CASE-002B-Lobotomy-Corporation.md   (脑叶公司 #2: 收容系统)
 │
 ├── 50_Projects/                 # 当前项目层 (当前为空)
 │
@@ -48,7 +49,7 @@ game-design/
 - **系统策划** → 10_Theory/ + 30_Mechanics/
 - **文案策划** → 20_Frameworks/SCP + 10_Theory/环境叙事
 - **数值策划** → 10_Theory/生存游戏学术理论
-- **技术策划** → 90_TechRefs/
+- **技术策划** → 60_TechRefs/
 
 ## 📝 使用规范
 
@@ -72,12 +73,12 @@ status: mature
 - **理论文档**: 3
 - **框架文档**: 3
 - **机制组件**: 5
-- **案例分析**: 2 (Abiotic Factor, 脑叶公司)
+- **案例分析**: 3 (Abiotic Factor, 脑叶公司 )
 - **项目文档**: 0 (50_Projects/ 当前为空)
 - **技术参考**: 1
 - **工作日志**: 1
-- **总计**: 15 知识节点
+- **总计**: 16 知识节点
 
 ---
-**最后更新**: 2026-04-08  
-**架构版本**: v2.1 (双轨制 + 案例扩展)
+**最后更新**: 2026-04-09
+**架构版本**: v2.2 (脑叶案例重构为双文档)

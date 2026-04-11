@@ -53,6 +53,7 @@ status: active
 | CASE-001 | [Abiotic Factor 深度分析](../40_CaseStudies/CASE-001-Abiotic-Factor.md) | 科学家身份、环境威胁、办公空间叙事 |
 | CASE-002A | [脑叶公司 #1: 管理玩法](../40_CaseStudies/CASE-002A-lobotomy-management.md) | 熔毁机制、恐慌系统、核心抑制、创伤-机制映射 |
 | CASE-002B | [脑叶公司 #2: 收容系统](../40_CaseStudies/CASE-002B-Lobotomy-Corporation.md) | 风险等级、知识锁、异想体设计、Combo系统 |
+| CASE-003A | [Control 玩法系统分析](../40_CaseStudies/CASE-003A-Control.md) | 超能力动作、新怪谈张力、烟灰缸迷宫、模拟vs再现 |
 
 ### 50_Projects/ 当前项目
 **正在进行的项目**

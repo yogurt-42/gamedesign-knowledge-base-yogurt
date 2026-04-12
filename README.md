@@ -32,7 +32,8 @@ game-design/
 │   ├── CASE-001-Abiotic-Factor.md          (Abiotic Factor)
 │   ├── CASE-002A-lobotomy-management.md    (脑叶公司 #1: 管理玩法)
 │   ├── CASE-002B-Lobotomy-Corporation.md   (脑叶公司 #2: 收容系统)
-│   └── CASE-003A-Control.md                (Control 玩法系统分析)
+│   ├── CASE-003A-Control-Gameplay.md         (Control #1: 玩法系统分析)
+│   └── CASE-003B-Control-Bureaucratic-Horror.md (Control #2: 官僚恐怖与新怪谈)
 │
 ├── 50_Projects/                 # 当前项目层 (当前为空)
 │
@@ -74,12 +75,12 @@ status: mature
 - **理论文档**: 3
 - **框架文档**: 3
 - **机制组件**: 5
-- **案例分析**: 4 (Abiotic Factor, 脑叶公司, Control)
+- **案例分析**: 5 (Abiotic Factor, 脑叶公司, Control)
 - **项目文档**: 0 (50_Projects/ 当前为空)
 - **技术参考**: 1
 - **工作日志**: 1
 - **总计**: 17 知识节点
 
 ---
-**最后更新**: 2026-04-11
-**架构版本**: v2.3 (新增 Control 案例分析)
+**最后更新**: 2026-04-12
+**架构版本**: v2.4 (新增 Control 艺术哲学分析)

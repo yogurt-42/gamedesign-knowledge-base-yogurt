@@ -35,7 +35,8 @@ game-design/
 │   ├── CASE-003A-Control-Gameplay.md         (Control #1: 玩法系统分析)
 │   └── CASE-003B-Control-Bureaucratic-Horror.md (Control #2: 官僚恐怖与新怪谈)
 │
-├── 50_Projects/                 # 当前项目层 (当前为空)
+├── 50_Projects/                 # 当前项目层
+│   └── Unfinished/              # 时间循环太空冒险 (概念阶段)
 │
 ├── 60_TechRefs/                 # 技术实现层
 │   └── 2d-topdown-guide.md           (TECH-001)
@@ -76,11 +77,11 @@ status: mature
 - **框架文档**: 3
 - **机制组件**: 5
 - **案例分析**: 5 (Abiotic Factor, 脑叶公司, Control)
-- **项目文档**: 0 (50_Projects/ 当前为空)
+- **项目文档**: 1 (Unfinished - 时间循环太空冒险)
 - **技术参考**: 1
 - **工作日志**: 1
 - **总计**: 17 知识节点
 
 ---
-**最后更新**: 2026-04-12
-**架构版本**: v2.4 (新增 Control 艺术哲学分析)
+**最后更新**: 2026-04-23
+**架构版本**: v2.5 (新增 Unfinished 项目)

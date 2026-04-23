@@ -54,7 +54,7 @@ status: active
 | CASE-002A | [脑叶公司 #1: 管理玩法](../40_CaseStudies/CASE-002A-lobotomy-management.md) | 熔毁机制、恐慌系统、核心抑制、创伤-机制映射 |
 | CASE-002B | [脑叶公司 #2: 收容系统](../40_CaseStudies/CASE-002B-Lobotomy-Corporation.md) | 风险等级、知识锁、异想体设计、Combo系统 |
 | CASE-003A | [Control #1: 玩法系统分析](../40_CaseStudies/CASE-003A-Control-Gameplay.md) | 超能力动作、新怪谈张力、烟灰缸迷宫、模拟vs再现 |
-| CASE-003B | [Control 艺术哲学分析](../40_CaseStudies/CASE-003B-Control-Bureaucratic-Horror.md) | 官僚恐怖、粗野主义、权力网络、神秘与科学中间地带 |
+| CASE-003B | [Control #2: 艺术哲学分析](../40_CaseStudies/CASE-003B-Control-Bureaucratic-Horror.md) | 官僚恐怖、粗野主义、权力网络、神秘与科学中间地带 |
 
 ### 50_Projects/ 当前项目
 **正在进行的项目**

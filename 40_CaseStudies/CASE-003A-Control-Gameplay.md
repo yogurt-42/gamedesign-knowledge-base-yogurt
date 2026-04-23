@@ -15,6 +15,14 @@ related:
   - CASE-002A
   - CASE-002B
   - CASE-003B
+document_status:
+  state: "认知演化中"
+  known_defects:
+    - "LLM 镜像偏差：部分论述受提示词影响产生立场偏移"
+    - "辅助模式论述挣扎：AI 平滑处理消解了归因的尖锐性"
+    - "术语密度过高：哲学/学术引用可能制造虚假深度"
+  reading_guide: "本文档记录了 2026-04 时期笔者对 Control 的过渡性理解，存在立场摇摆与信源混淆，请结合后续版本对比阅读"
+  last_reflection: "2026-04-13"
 ---
 
 # Control #1: 玩法系统分析 - 超能力动作与新怪谈的张力
